@@ -30,6 +30,9 @@ You may see final and physical result of this project so here is some photos fro
 
 <img src="https://github.com/HelenaMaslowska/Minecraft-box/blob/main/Box%20photos/1670781725194.jpg" height=400)/>
 <p>
-<img src="https://github.com/HelenaMaslowska/Minecraft-box/blob/main/Box%20photos/1670796617963.jpg" width=400)/>
+  
 ## Author
-Helena Masłowska, Dec 2022
+- All electronics and graphics stuff, plans, state machine and scheme - Helena Masłowska
+- Phone app - Łukasz Jankowski
+  
+Dec 2022
