@@ -1,5 +1,5 @@
 # Minecraft box
-Minecraft box made using Raspberry Pi Zero, Python, electronics detectors and cartoon. This is my project for studies and first one using Raspberry Pi! It tooks about 2 weeks.
+Minecraft box is made using Raspberry Pi Zero, Python, electronics detectors and cartoon. This is my project for studies and first one using Raspberry Pi! It tooks about 2 weeks.
 
 ### So, how it works:
 1. First of all you need to put your card on the right and RFID detects if your card is valid.
